@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "6f76662d-a667-431b-a441-187c6cb37c21",
+    "title": "Majestic Mountain Graphic T-Shirt",
+    "slug": "majestic-mountain-graphic-t-shirt",
+    "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
+    "price": 35,
+    "originalPrice": 44,
+    "discount": 9,
+    "discountPercentage": 20,
+    "promotion": "3x2",
+    "shippingCost": 0,
+    "rating": 3,
+    "images": [
+      "https://i.imgur.com/QkIa5tT.jpeg",
+      "https://i.imgur.com/jb5Yu0h.jpeg",
+      "https://i.imgur.com/UlxxXyG.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.091Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "69944ffd-c5d3-4909-b3fc-048f6148791e",
+    "title": "Classic Red Pullover Hoodie",
+    "slug": "classic-red-pullover-hoodie",
+    "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+    "price": 4,
+    "originalPrice": 10,
+    "discount": 6,
+    "discountPercentage": 60,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/1twoaDy.jpeg",
+      "https://i.imgur.com/FDwQgLy.jpeg",
+      "https://i.imgur.com/kg1ZhhH.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.091Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "e9a98355-d011-4505-bf2f-207f436f5555",
+    "title": "Classic Heather Gray Hoodie",
+    "slug": "classic-heather-gray-hoodie",
+    "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+    "price": 41,
+    "originalPrice": 69,
+    "discount": 28,
+    "discountPercentage": 40,
+    "promotion": "3x2",
+    "shippingCost": 15,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/cHddUCu.jpeg",
+      "https://i.imgur.com/CFOjAgK.jpeg",
+      "https://i.imgur.com/wbIMMme.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.091Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "79fe12a7-87b1-4fd7-bb49-e33f62ac3da6",
+    "title": "Classic Grey Hooded Sweatshirt",
+    "slug": "classic-grey-hooded-sweatshirt",
+    "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
+    "price": 90,
+    "originalPrice": 90,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 15,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/R2PN9Wq.jpeg",
+      "https://i.imgur.com/IvxMPFr.jpeg",
+      "https://i.imgur.com/7eW9nXP.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "7d625d93-8952-478e-b185-06bd3f13a6d5",
+    "title": "Classic Black Hooded Sweatshirt",
+    "slug": "classic-black-hooded-sweatshirt",
+    "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
+    "price": 71,
+    "originalPrice": 79,
+    "discount": 8,
+    "discountPercentage": 10,
+    "promotion": null,
+    "shippingCost": 15,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/cSytoSD.jpeg",
+      "https://i.imgur.com/WwKucXb.jpeg",
+      "https://i.imgur.com/cE2Dxh9.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "a30b4753-3f60-400e-824f-ad05ccfe7d06",
+    "title": "Classic Comfort Fit Joggers",
+    "slug": "classic-comfort-fit-joggers",
+    "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+    "price": 25,
+    "originalPrice": 25,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/ZKGofuB.jpeg",
+      "https://i.imgur.com/GJi73H0.jpeg",
+      "https://i.imgur.com/633Fqrz.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "614fcc14-9c11-4b99-81f4-6cd85542a5aa",
+    "title": "Classic Comfort Drawstring Joggers",
+    "slug": "classic-comfort-drawstring-joggers",
+    "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+    "price": 55,
+    "originalPrice": 79,
+    "discount": 24,
+    "discountPercentage": 30,
+    "promotion": "2x1",
+    "shippingCost": 10,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/mp3rUty.jpeg",
+      "https://i.imgur.com/JQRGIc2.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "08f702c7-a574-467d-8f46-0c58a650ca9e",
+    "title": "Classic Red Jogger Sweatpants",
+    "slug": "classic-red-jogger-sweatpants",
+    "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+    "price": 59,
+    "originalPrice": 98,
+    "discount": 39,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/9LFjwpI.jpeg",
+      "https://i.imgur.com/vzrTgUR.jpeg",
+      "https://i.imgur.com/p5NdI6n.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "79a9bf47-a7a2-483e-af33-8e362e471e1f",
+    "title": "Classic Navy Blue Baseball Cap",
+    "slug": "classic-navy-blue-baseball-cap",
+    "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+    "price": 55,
+    "originalPrice": 61,
+    "discount": 6,
+    "discountPercentage": 10,
+    "promotion": null,
+    "shippingCost": 15,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/R3iobJA.jpeg",
+      "https://i.imgur.com/Wv2KTsf.jpeg",
+      "https://i.imgur.com/76HAxcA.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "806b2f33-9711-4c55-b6be-8b66292eeeac",
+    "title": "Classic Blue Baseball Cap",
+    "slug": "classic-blue-baseball-cap",
+    "description": "Top off your casual look with our Classic Blue Baseball Cap, made from high-quality materials for lasting comfort. Featuring a timeless six-panel design with a pre-curved visor, this adjustable cap offers both style and practicality for everyday wear.",
+    "price": 86,
+    "originalPrice": 86,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/wXuQ7bm.jpeg",
+      "https://i.imgur.com/BZrIEmb.jpeg",
+      "https://i.imgur.com/KcT6BE0.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "a92eedda-db5f-46aa-b132-b7177d1af75f",
+    "title": "Classic Red Baseball Cap",
+    "slug": "classic-red-baseball-cap",
+    "description": "Elevate your casual wardrobe with this timeless red baseball cap. Crafted from durable fabric, it features a comfortable fit with an adjustable strap at the back, ensuring one size fits all. Perfect for sunny days or adding a sporty touch to your outfit.",
+    "price": 17,
+    "originalPrice": 35,
+    "discount": 18,
+    "discountPercentage": 50,
+    "promotion": null,
+    "shippingCost": 15,
+    "rating": 1,
+    "images": [
+      "https://i.imgur.com/cBuLvBi.jpeg",
+      "https://i.imgur.com/N1GkCIR.jpeg",
+      "https://i.imgur.com/kKc9A5p.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "be61e447-d836-4669-b38e-a5c908f4d04a",
+    "title": "Classic Black Baseball Cap",
+    "slug": "classic-black-baseball-cap",
+    "description": "Elevate your casual wear with this timeless black baseball cap. Made with high-quality, breathable fabric, it features an adjustable strap for the perfect fit. Whether you’re out for a jog or just running errands, this cap adds a touch of style to any outfit.",
+    "price": 52,
+    "originalPrice": 58,
+    "discount": 6,
+    "discountPercentage": 10,
+    "promotion": "2x1",
+    "shippingCost": 5,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/KeqG6r4.jpeg",
+      "https://i.imgur.com/xGQOw3p.jpeg",
+      "https://i.imgur.com/oO5OUjb.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "2ddc50f0-7427-4581-9524-59e8ce470e64",
+    "title": "Classic Olive Chino Shorts",
+    "slug": "classic-olive-chino-shorts",
+    "description": "Elevate your casual wardrobe with these classic olive chino shorts. Designed for comfort and versatility, they feature a smooth waistband, practical pockets, and a tailored fit that makes them perfect for both relaxed weekends and smart-casual occasions. The durable fabric ensures they hold up throughout your daily activities while maintaining a stylish look.",
+    "price": 84,
+    "originalPrice": 84,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/UsFIvYs.jpeg",
+      "https://i.imgur.com/YIq57b6.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "33dbf29f-b940-409d-979a-2b30e824aed7",
+    "title": "Classic High-Waisted Athletic Shorts",
+    "slug": "classic-high-waisted-athletic-shorts",
+    "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+    "price": 30,
+    "originalPrice": 43,
+    "discount": 13,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 3.5,
+    "images": [
+      "https://i.imgur.com/eGOUveI.jpeg",
+      "https://i.imgur.com/UcsGO7E.jpeg",
+      "https://i.imgur.com/NLn4e7S.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "e13e7000-f6d7-4ad0-91e8-38941d308b78",
+    "title": "Classic White Crew Neck T-Shirt",
+    "slug": "classic-white-crew-neck-t-shirt",
+    "description": "Elevate your basics with this versatile white crew neck tee. Made from a soft, breathable cotton blend, it offers both comfort and durability. Its sleek, timeless design ensures it pairs well with virtually any outfit. Ideal for layering or wearing on its own, this t-shirt is a must-have staple for every wardrobe.",
+    "price": 19,
+    "originalPrice": 39,
+    "discount": 20,
+    "discountPercentage": 50,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/axsyGpD.jpeg",
+      "https://i.imgur.com/T8oq9X2.jpeg",
+      "https://i.imgur.com/J6MinJn.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "f20add1f-3582-489d-8ee2-a2a04a83714f",
+    "title": "Classic White Tee - Timeless Style and Comfort",
+    "slug": "classic-white-tee---timeless-style-and-comfort",
+    "description": "Elevate your everyday wardrobe with our Classic White Tee. Crafted from premium soft cotton material, this versatile t-shirt combines comfort with durability, perfect for daily wear. Featuring a relaxed, unisex fit that flatters every body type, it's a staple piece for any casual ensemble. Easy to care for and machine washable, this white tee retains its shape and softness wash after wash. Pair it with your favorite jeans or layer it under a jacket for a smart look.",
+    "price": 51,
+    "originalPrice": 73,
+    "discount": 22,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 1,
+    "images": [
+      "https://i.imgur.com/Y54Bt8J.jpeg",
+      "https://i.imgur.com/SZPDSgy.jpeg",
+      "https://i.imgur.com/sJv4Xx0.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "66bee335-e68b-42b8-a3be-46d4e26aab0a",
+    "title": "Classic Black T-Shirt",
+    "slug": "classic-black-t-shirt",
+    "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+    "price": 17,
+    "originalPrice": 35,
+    "discount": 18,
+    "discountPercentage": 50,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/9DqEOV5.jpeg",
+      "https://i.imgur.com/ae0AEYn.jpeg",
+      "https://i.imgur.com/mZ4rUjj.jpeg"
+    ],
+    "category": {
+      "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.107Z",
+      "createdAt": "2026-05-11T16:20:40.107Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "a3f46087-b0de-4cf2-8e2b-5e91b3a9d22d",
+    "title": "Sleek White & Orange Wireless Gaming Controller",
+    "slug": "sleek-white-&-orange-wireless-gaming-controller",
+    "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
+    "price": 48,
+    "originalPrice": 69,
+    "discount": 21,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/ZANVnHE.jpeg",
+      "https://i.imgur.com/Ro5z6Tn.jpeg",
+      "https://i.imgur.com/woA93Li.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "8e9600c6-4bd1-4e06-8b2b-c45af4b661ba",
+    "title": "Sleek Wireless Headphone & Inked Earbud Set",
+    "slug": "sleek-wireless-headphone-&-inked-earbud-set",
+    "description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
+    "price": 44,
+    "originalPrice": 44,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": "2x1",
+    "shippingCost": 5,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/yVeIeDa.jpeg",
+      "https://i.imgur.com/jByJ4ih.jpeg",
+      "https://i.imgur.com/KXj6Tpb.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "5205e1aa-790f-4218-b23b-d7b6688b5a30",
+    "title": "Sleek Comfort-Fit Over-Ear Headphones",
+    "slug": "sleek-comfort-fit-over-ear-headphones",
+    "description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
+    "price": 17,
+    "originalPrice": 28,
+    "discount": 11,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/SolkFEB.jpeg",
+      "https://i.imgur.com/KIGW49u.jpeg",
+      "https://i.imgur.com/mWwek7p.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "3047eb37-a0c6-41da-8f79-aa6d8ebe7333",
+    "title": "Efficient 2-Slice Toaster",
+    "slug": "efficient-2-slice-toaster",
+    "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+    "price": 29,
+    "originalPrice": 48,
+    "discount": 19,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 1.5,
+    "images": [
+      "https://i.imgur.com/keVCVIa.jpeg",
+      "https://i.imgur.com/afHY7v2.jpeg",
+      "https://i.imgur.com/yAOihUe.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "12452f38-707f-4da9-a2df-2078568ec300",
+    "title": "Sleek Wireless Computer Mouse",
+    "slug": "sleek-wireless-computer-mouse",
+    "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+    "price": 4,
+    "originalPrice": 10,
+    "discount": 6,
+    "discountPercentage": 60,
+    "promotion": "2x1",
+    "shippingCost": 15,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/w3Y8NwQ.jpeg",
+      "https://i.imgur.com/WJFOGIC.jpeg",
+      "https://i.imgur.com/dV4Nklf.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "f8f2bf72-8887-4851-a098-b8e7a755ae28",
+    "title": "Sleek Modern Laptop with Ambient Lighting",
+    "slug": "sleek-modern-laptop-with-ambient-lighting",
+    "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
+    "price": 30,
+    "originalPrice": 43,
+    "discount": 13,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/OKn1KFI.jpeg",
+      "https://i.imgur.com/G4f21Ai.jpeg",
+      "https://i.imgur.com/Z9oKRVJ.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "fcb4e064-3fdb-426e-8a77-330756eed970",
+    "title": "Sleek Modern Laptop for Professionals",
+    "slug": "sleek-modern-laptop-for-professionals",
+    "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+    "price": 97,
+    "originalPrice": 97,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/ItHcq7o.jpeg",
+      "https://i.imgur.com/55GM3XZ.jpeg",
+      "https://i.imgur.com/tcNJxoW.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.266Z"
+  },
+  {
+    "id": "8a747df4-a333-4f16-8d34-6f2f822c81b7",
+    "title": "Stylish Red & Silver Over-Ear Headphones",
+    "slug": "stylish-red-&-silver-over-ear-headphones",
+    "description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
+    "price": 35,
+    "originalPrice": 39,
+    "discount": 4,
+    "discountPercentage": 10,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/YaSqa06.jpeg",
+      "https://i.imgur.com/isQAliJ.jpeg",
+      "https://i.imgur.com/5B8UQfh.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "20e8ce9d-cd03-452e-92e9-7a807739488a",
+    "title": "Sleek Mirror Finish Phone Case",
+    "slug": "sleek-mirror-finish-phone-case",
+    "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+    "price": 27,
+    "originalPrice": 27,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": "3x2",
+    "shippingCost": 0,
+    "rating": 3.5,
+    "images": [
+      "https://i.imgur.com/yb9UQKL.jpeg",
+      "https://i.imgur.com/m2owtQG.jpeg",
+      "https://i.imgur.com/bNiORct.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "26c0fd5a-98de-4416-a6b3-0d2cbd64d4c1",
+    "title": "Sleek Smartwatch with Vibrant Display",
+    "slug": "sleek-smartwatch-with-vibrant-display",
+    "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+    "price": 14,
+    "originalPrice": 16,
+    "discount": 2,
+    "discountPercentage": 10,
+    "promotion": "2x1",
+    "shippingCost": 10,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/LGk9Jn2.jpeg",
+      "https://i.imgur.com/1ttYWaI.jpeg",
+      "https://i.imgur.com/sPRWnJH.jpeg"
+    ],
+    "category": {
+      "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://i.imgur.com/ZANVnHE.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "2c11c947-dd52-4139-b259-8f09e30311b0",
+    "title": "Sleek Modern Leather Sofa",
+    "slug": "sleek-modern-leather-sofa",
+    "description": "Enhance the elegance of your living space with our Sleek Modern Leather Sofa. Designed with a minimalist aesthetic, it features clean lines and a luxurious leather finish. The robust metal legs provide stability and support, while the plush cushions ensure comfort. Perfect for contemporary homes or office waiting areas, this sofa is a statement piece that combines style with practicality.",
+    "price": 26,
+    "originalPrice": 53,
+    "discount": 27,
+    "discountPercentage": 50,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/Qphac99.jpeg",
+      "https://i.imgur.com/dJjpEgG.jpeg",
+      "https://i.imgur.com/MxJyADq.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "373688fb-5434-4c0e-b3cc-82b20bc8bfa0",
+    "title": "Mid-Century Modern Wooden Dining Table",
+    "slug": "mid-century-modern-wooden-dining-table",
+    "description": "Elevate your dining room with this sleek Mid-Century Modern dining table, featuring an elegant walnut finish and tapered legs for a timeless aesthetic. Its sturdy wood construction and minimalist design make it a versatile piece that fits with a variety of decor styles. Perfect for intimate dinners or as a stylish spot for your morning coffee.",
+    "price": 24,
+    "originalPrice": 24,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 10,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/DMQHGA0.jpeg",
+      "https://i.imgur.com/qrs9QBg.jpeg",
+      "https://i.imgur.com/XVp8T1I.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "f5b607ce-4bd0-4373-87d5-5ca16cde2bc2",
+    "title": "Elegant Golden-Base Stone Top Dining Table",
+    "slug": "elegant-golden-base-stone-top-dining-table",
+    "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
+    "price": 53,
+    "originalPrice": 66,
+    "discount": 13,
+    "discountPercentage": 20,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 3.5,
+    "images": [
+      "https://i.imgur.com/NWIJKUj.jpeg",
+      "https://i.imgur.com/Jn1YSLk.jpeg",
+      "https://i.imgur.com/VNZRvx5.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "8a35f1a5-691e-4b6b-a9fe-be0c5facff67",
+    "title": "Modern Elegance Teal Armchair",
+    "slug": "modern-elegance-teal-armchair",
+    "description": "Elevate your living space with this beautifully crafted armchair, featuring a sleek wooden frame that complements its vibrant teal upholstery. Ideal for adding a pop of color and contemporary style to any room, this chair provides both superb comfort and sophisticated design. Perfect for reading, relaxing, or creating a cozy conversation nook.",
+    "price": 25,
+    "originalPrice": 25,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": "2x1",
+    "shippingCost": 0,
+    "rating": 2.5,
+    "images": [
+      "https://i.imgur.com/6wkyyIN.jpeg",
+      "https://i.imgur.com/Ald3Rec.jpeg",
+      "https://i.imgur.com/dIqo03c.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "2823aeb0-67f4-42e7-b41a-33926cacfe29",
+    "title": "Elegant Solid Wood Dining Table",
+    "slug": "elegant-solid-wood-dining-table",
+    "description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
+    "price": 67,
+    "originalPrice": 67,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/4lTaHfF.jpeg",
+      "https://i.imgur.com/JktHE1C.jpeg",
+      "https://i.imgur.com/cQeXQMi.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "88faf8f1-90ee-4277-a7ff-938eae342587",
+    "title": "Modern Minimalist Workstation Setup",
+    "slug": "modern-minimalist-workstation-setup",
+    "description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
+    "price": 29,
+    "originalPrice": 49,
+    "discount": 20,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/3oXNBst.jpeg",
+      "https://i.imgur.com/ErYYZnT.jpeg",
+      "https://i.imgur.com/boBPwYW.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "bfab55a4-6e31-456a-b24d-601418052c08",
+    "title": "Modern Ergonomic Office Chair",
+    "slug": "modern-ergonomic-office-chair",
+    "description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
+    "price": 71,
+    "originalPrice": 71,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/3dU0m72.jpeg",
+      "https://i.imgur.com/zPU3EVa.jpeg"
+    ],
+    "category": {
+      "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+      "name": "Furniture",
+      "slug": "furniture",
+      "image": "https://i.imgur.com/Qphac99.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "2e516767-1008-46f9-b39e-d2b8a7e13b7b",
+    "title": "Futuristic Holographic Soccer Cleats",
+    "slug": "futuristic-holographic-soccer-cleats",
+    "description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
+    "price": 35,
+    "originalPrice": 39,
+    "discount": 4,
+    "discountPercentage": 10,
+    "promotion": "3x2",
+    "shippingCost": 0,
+    "rating": 1,
+    "images": [
+      "https://i.imgur.com/qNOjJje.jpeg",
+      "https://i.imgur.com/NjfCFnu.jpeg",
+      "https://i.imgur.com/eYtvXS1.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "978c2fac-7a89-4415-a038-7c692732c11f",
+    "title": "Rainbow Glitter High Heels",
+    "slug": "rainbow-glitter-high-heels",
+    "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+    "price": 39,
+    "originalPrice": 39,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/62gGzeF.jpeg",
+      "https://i.imgur.com/5MoPuFM.jpeg",
+      "https://i.imgur.com/sUVj7pK.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "725d1c6e-9f5f-42ab-8f3c-8be045b6310f",
+    "title": "Chic Summer Denim Espadrille Sandals",
+    "slug": "chic-summer-denim-espadrille-sandals",
+    "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
+    "price": 20,
+    "originalPrice": 33,
+    "discount": 13,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 3,
+    "images": [
+      "https://i.imgur.com/9qrmE1b.jpeg",
+      "https://i.imgur.com/wqKxBVH.jpeg",
+      "https://i.imgur.com/sWSV6DK.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "119fa7e1-91a5-4757-80cd-48c9b6883bf4",
+    "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+    "slug": "vibrant-runners:-bold-orange-&-blue-sneakers",
+    "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
+    "price": 16,
+    "originalPrice": 27,
+    "discount": 11,
+    "discountPercentage": 40,
+    "promotion": null,
+    "shippingCost": 10,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/hKcMNJs.jpeg",
+      "https://i.imgur.com/NYToymX.jpeg",
+      "https://i.imgur.com/HiiapCt.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "69a5da42-03a3-4cad-a2c8-7be60bf20c0d",
+    "title": "Vibrant Pink Classic Sneakers",
+    "slug": "vibrant-pink-classic-sneakers",
+    "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+    "price": 59,
+    "originalPrice": 84,
+    "discount": 25,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 10,
+    "rating": 2,
+    "images": [
+      "https://i.imgur.com/mcW42Gi.jpeg",
+      "https://i.imgur.com/mhn7qsF.jpeg",
+      "https://i.imgur.com/F8vhnFJ.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "5761710f-8037-4caa-ba9b-cd216beb1b29",
+    "title": "Futuristic Silver and Gold High-Top Sneaker",
+    "slug": "futuristic-silver-and-gold-high-top-sneaker",
+    "description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
+    "price": 68,
+    "originalPrice": 68,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/npLfCGq.jpeg",
+      "https://i.imgur.com/vYim3gj.jpeg",
+      "https://i.imgur.com/HxuHwBO.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "aa638c80-283b-4ec6-8888-082b226caf4c",
+    "title": "Futuristic Chic High-Heel Boots",
+    "slug": "futuristic-chic-high-heel-boots",
+    "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
+    "price": 25,
+    "originalPrice": 36,
+    "discount": 11,
+    "discountPercentage": 30,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 3.5,
+    "images": [
+      "https://i.imgur.com/HqYqLnW.jpeg",
+      "https://i.imgur.com/RlDGnZw.jpeg",
+      "https://i.imgur.com/qa0O6fg.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "de734e2d-4018-4b68-a92e-f31cbed502e5",
+    "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+    "slug": "elegant-patent-leather-peep-toe-pumps-with-gold-tone-heel",
+    "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+    "price": 53,
+    "originalPrice": 53,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 10,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/AzAY4Ed.jpeg",
+      "https://i.imgur.com/umfnS9P.jpeg",
+      "https://i.imgur.com/uFyuvLg.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "4af4d00f-8cac-4d6b-8f93-3dd40dc3ce6d",
+    "title": "Elegant Purple Leather Loafers",
+    "slug": "elegant-purple-leather-loafers",
+    "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
+    "price": 7,
+    "originalPrice": 17,
+    "discount": 10,
+    "discountPercentage": 60,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/Au8J9sX.jpeg",
+      "https://i.imgur.com/gdr8BW2.jpeg",
+      "https://i.imgur.com/KDCZxnJ.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "2b4cf097-c729-428e-8cf0-1e63548773a3",
+    "title": "Classic Blue Suede Casual Shoes",
+    "slug": "classic-blue-suede-casual-shoes",
+    "description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
+    "price": 31,
+    "originalPrice": 39,
+    "discount": 8,
+    "discountPercentage": 20,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/sC0ztOB.jpeg",
+      "https://i.imgur.com/Jf9DL9R.jpeg",
+      "https://i.imgur.com/R1IN95T.jpeg"
+    ],
+    "category": {
+      "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "80594bea-0628-4bee-962c-b34053ca102a",
+    "title": "Sleek Futuristic Electric Bicycle",
+    "slug": "sleek-futuristic-electric-bicycle",
+    "description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
+    "price": 22,
+    "originalPrice": 22,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": "3x2",
+    "shippingCost": 5,
+    "rating": 1,
+    "images": [
+      "https://i.imgur.com/BG8J0Fj.jpg",
+      "https://i.imgur.com/ujHBpCX.jpg",
+      "https://i.imgur.com/WHeVL9H.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "d5e17059-44f8-4681-aa8f-2407a6f8ddfb",
+    "title": "Sleek All-Terrain Go-Kart",
+    "slug": "sleek-all-terrain-go-kart",
+    "description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
+    "price": 30,
+    "originalPrice": 37,
+    "discount": 7,
+    "discountPercentage": 20,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/Ex5x3IU.jpg",
+      "https://i.imgur.com/z7wAQwe.jpg",
+      "https://i.imgur.com/kc0Dj9S.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "a8d586f1-618f-4685-9bd5-2b58d4345a8c",
+    "title": "Radiant Citrus Eau de Parfum",
+    "slug": "radiant-citrus-eau-de-parfum",
+    "description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
+    "price": 66,
+    "originalPrice": 73,
+    "discount": 7,
+    "discountPercentage": 10,
+    "promotion": null,
+    "shippingCost": 5,
+    "rating": 5,
+    "images": [
+      "https://i.imgur.com/xPDwUb3.jpg",
+      "https://i.imgur.com/3rfp691.jpg",
+      "https://i.imgur.com/kG05a29.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "6b483e60-cff5-4cb3-93f8-5e8f6089a78a",
+    "title": "Sleek Olive Green Hardshell Carry-On Luggage",
+    "slug": "sleek-olive-green-hardshell-carry-on-luggage",
+    "description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
+    "price": 43,
+    "originalPrice": 48,
+    "discount": 5,
+    "discountPercentage": 10,
+    "promotion": "2x1",
+    "shippingCost": 15,
+    "rating": 3,
+    "images": [
+      "https://i.imgur.com/jVfoZnP.jpg",
+      "https://i.imgur.com/Tnl15XK.jpg",
+      "https://i.imgur.com/7OqTPO6.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "ef88b3ee-de42-47ce-a6f4-c5234ab17125",
+    "title": "Chic Transparent Fashion Handbag",
+    "slug": "chic-transparent-fashion-handbag",
+    "description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
+    "price": 61,
+    "originalPrice": 61,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": null,
+    "shippingCost": 10,
+    "rating": 2.5,
+    "images": [
+      "https://i.imgur.com/Lqaqz59.jpg",
+      "https://i.imgur.com/uSqWK0m.jpg",
+      "https://i.imgur.com/atWACf1.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "1402da6f-aa3b-49ba-b91a-2fe9db921348",
+    "title": "Trendy Pink-Tinted Sunglasses",
+    "slug": "trendy-pink-tinted-sunglasses",
+    "description": "Step up your style game with these fashionable black-framed, pink-tinted sunglasses. Perfect for making a statement while protecting your eyes from the glare. Their bold color and contemporary design make these shades a must-have accessory for any trendsetter looking to add a pop of color to their ensemble.",
+    "price": 34,
+    "originalPrice": 38,
+    "discount": 4,
+    "discountPercentage": 10,
+    "promotion": null,
+    "shippingCost": 0,
+    "rating": 4,
+    "images": [
+      "https://i.imgur.com/0qQBkxX.jpg",
+      "https://i.imgur.com/I5g1DoE.jpg",
+      "https://i.imgur.com/myfFQBW.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  },
+  {
+    "id": "8ff7a41e-9f2f-47b0-a7b3-1d4927ee2797",
+    "title": "Elegant Glass Tumbler Set",
+    "slug": "elegant-glass-tumbler-set",
+    "description": "Enhance your drinkware collection with our sophisticated set of glass tumblers, perfect for serving your favorite beverages. This versatile set includes both clear and subtly tinted glasses, lending a modern touch to any table setting. Crafted with quality materials, these durable tumblers are designed to withstand daily use while maintaining their elegant appeal.",
+    "price": 50,
+    "originalPrice": 50,
+    "discount": 0,
+    "discountPercentage": 0,
+    "promotion": "3x2",
+    "shippingCost": 15,
+    "rating": 4.5,
+    "images": [
+      "https://i.imgur.com/TF0pXdL.jpg",
+      "https://i.imgur.com/BLDByXP.jpg",
+      "https://i.imgur.com/b7trwCv.jpg"
+    ],
+    "category": {
+      "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "updatedAt": "2026-05-11T16:20:40.108Z",
+      "createdAt": "2026-05-11T16:20:40.108Z"
+    },
+    "updatedAt": "2026-05-13T02:18:10.092Z",
+    "createdAt": "2026-05-12T03:06:11.267Z"
+  }
+]

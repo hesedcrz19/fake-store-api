@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+    "name": "Clothes",
+    "slug": "clothes",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "updatedAt": "2026-05-11T16:20:40.107Z",
+    "createdAt": "2026-05-11T16:20:40.107Z"
+  },
+  {
+    "id": "a74ebe52-2e41-4d26-b3a3-90a35dd85049",
+    "name": "Electronics",
+    "slug": "electronics",
+    "image": "https://i.imgur.com/ZANVnHE.jpeg",
+    "updatedAt": "2026-05-11T16:20:40.108Z",
+    "createdAt": "2026-05-11T16:20:40.108Z"
+  },
+  {
+    "id": "c72a053b-a33b-41aa-9e17-008651ee5f55",
+    "name": "Furniture",
+    "slug": "furniture",
+    "image": "https://i.imgur.com/Qphac99.jpeg",
+    "updatedAt": "2026-05-11T16:20:40.108Z",
+    "createdAt": "2026-05-11T16:20:40.108Z"
+  },
+  {
+    "id": "3dba7643-1a95-405f-a2c9-03fa5fc54c52",
+    "name": "Shoes",
+    "slug": "shoes",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "updatedAt": "2026-05-11T16:20:40.108Z",
+    "createdAt": "2026-05-11T16:20:40.108Z"
+  },
+  {
+    "id": "037a8612-9a7a-4857-8e3d-43aa88e2554c",
+    "name": "Miscellaneous",
+    "slug": "miscellaneous",
+    "image": "https://i.imgur.com/BG8J0Fj.jpg",
+    "updatedAt": "2026-05-11T16:20:40.108Z",
+    "createdAt": "2026-05-11T16:20:40.108Z"
+  }
+]

@@ -1,0 +1,46 @@
+import { CategoryModel } from './category.model.js'
+import { uuidSchema } from '../schemas/uuidSchema.js'
+import { slugSchema } from '../schemas/slugSchema.js'
+import { productQuerySchema } from '../products/schemas/productQuerySchema.js'
+
+export class CategoryController {
+  static async getAll (req, res) {
+    const categories = await CategoryModel.getAll()
+    res.json(categories)
+  }
+
+  static async getById (req, res) {
+    const category = await CategoryModel.getById({ id: uuidSchema.parse(req.params.id) })
+    res.json(category)
+  }
+
+  static async getProductsById (req, res) {
+    const products = await CategoryModel.getProductsById({ id: uuidSchema.parse(req.params.id), filters: productQuerySchema.parse(req.query) })
+    res.json(products)
+  }
+
+  static async getBySlug (req, res) {
+    const category = await CategoryModel.getBySlug({ slug: slugSchema.parse(req.params.slug) })
+    res.json(category)
+  }
+
+  static async getProductsBySlug (req, res) {
+    const products = await CategoryModel.getProductsBySlug({ slug: slugSchema.parse(req.params.slug), filters: productQuerySchema.parse(req.query) })
+    res.json(products)
+  }
+
+  static async create (req, res) {
+    const category = await CategoryModel.create({ body: req.body })
+    res.status(201).json(category)
+  }
+
+  static async update (req, res) {
+    const category = await CategoryModel.update({ id: uuidSchema.parse(req.params.id), body: req.body })
+    res.status(201).json(category)
+  }
+
+  static async delete (req, res) {
+    await CategoryModel.delete({ id: uuidSchema.parse(req.params.id), body: req.body })
+    res.status(204).send()
+  }
+}

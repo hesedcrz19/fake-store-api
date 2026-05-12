@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+    <script type="module">
+      fetch("https://fake-store-api-bjbq.onrender.com/products?orderBy=price")
+        .then((data) => data.json())
+        .then((products) => {
+          const map = products.map((product) => {
+            console.log(product);
+            const article = document.createElement("article");
+            const h1 = document.createElement("h1");
+            const img = document.createElement("img");
+            const button = document.createElement("button");
+            h1.innerText = product.title;
+            img.src = product.images[0];
+            button.innerText = "DELETE";
+            button.dataset.id = product.id;
+            article.append(h1, button, img);
+            return article;
+          });
+          document.body.append(...map);
+
+          const buttons = document.querySelectorAll("button");
+          buttons.forEach((btn) => {
+            btn.addEventListener("click", (e) => {
+              const id = e.target.dataset.id;
+              const article = e.target.closest("article");
+              fetch(`https://fake-store-api-bjbq.onrender.com/products/${id}`, {
+                method: "DELETE",
+              }).then((res) => {
+                if (res.ok) {
+                  article.remove();
+                }
+              });
+            });
+          });
+        });
+    </script>
+  </head>
+  <body></body>
+</html>

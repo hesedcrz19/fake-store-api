@@ -1,0 +1,106 @@
+### Get all products
+GET http://localhost:3000/products
+
+### Filter by category
+GET http://localhost:3000/products?hasPromotion=true 
+### Get product by id
+GET http://localhost:3000/products/6f76662d-a667-431b-a441-187c6cb37c21
+
+### Get product by slug
+GET http://localhost:3000/products/slug/sleek-olive-green-hardshell-carry-on-luggage
+
+
+
+### Create un producto  
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+  "title": " ipit  ",
+  "description": "Una descripcion",
+  "originalPrice": 100.22,
+  "discountPercentage": -0,
+  "promotion": "2x1",
+  "shippingCost": 0,
+  "rating": 5,
+  "categoryId": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+  "images": ["https://placehold.co/600x400"]
+}
+
+
+
+### Update partially a existent product
+PATCH http://localhost:3000/products/6f76662d-a667-431b-a441-187c6cb37c21
+Content-Type: application/json
+
+{
+  "title": "Titulo modificado",
+  "originalPrice": 100,
+  "discountPercentage": 20,
+  "description": "Mucha descripcion blalblalblablablalblalbalb, jijijija asndasndkasjkdj"
+}
+
+### Update a existent product
+PUT http://localhost:3000/products/6f76662d-a667-431b-a441-187c6cb37c21
+Content-Type: application/json
+
+{
+  "title": "Titulo  modificadooooooooooooooo",
+  "originalPrice": 10000000000000,
+  "discountPercentage": 50,
+  "categoryId": "fd7eeb9e-e3e6-4349-a006-fb81ba05540d",
+  "description": "Mucha descripcion blalblalblablablalblalbalb, jijijija asndasndkasjkdj",
+  "images": ["https://placehold.co/600x400"]
+}
+
+
+
+### Delete a product
+DELETE  http://localhost:3000/products/3dba7643-1a95-405f-a2c9-03fa5fc54c52
+
+
+
+
+
+
+### Get all categories
+GET http://localhost:3000/categories
+
+### Get category by id
+GET http://localhost:3000/categories/fd7eeb9e-e3e6-4349-a006-fb81ba05540d/products?hasPromotion=false
+
+### Get products by category id
+GET http://localhost:3000/categories/slug/shoes/products?freeShipping=false
+
+
+
+### Get category by id
+POST http://localhost:3000/categories
+Content-Type: application/json
+
+{
+  "name": "  Ropa  asd   ",
+  "image": "https://placehold.co/600x400"
+}
+
+
+### Patch category by id
+PATCH http://localhost:3000/categories/fd7eeb9e-e3e6-4349-a006-fb81ba05540d
+Content-Type: application/json
+
+{
+  "name": "Platanoss"
+}
+
+### Put category by id
+PUT http://localhost:3000/categories/fd7eeb9e-e3e6-4349-a006-fb81ba05540d
+Content-Type: application/json
+
+{
+  "name": "Platanoss",
+  "image": "https://placehold.co/600x400"
+}
+
+
+### Delete category by id
+DELETE  http://localhost:3000/categories/3dba7643-1a95-405f-a2c9-03fa5fc54c52
