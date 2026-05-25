@@ -145,10 +145,7 @@
       "creationAt": "2026-04-13T02:45:39.000Z",
       "updatedAt": "2026-04-13T02:45:39.000Z"
     },
-    "images": [
-      "https://i.imgur.com/mp3rUty.jpeg",
-      "https://i.imgur.com/JQRGIc2.jpeg"
-    ],
+    "images": ["https://i.imgur.com/mp3rUty.jpeg", "https://i.imgur.com/JQRGIc2.jpeg"],
     "creationAt": "2026-04-13T02:45:39.000Z",
     "updatedAt": "2026-04-13T02:45:39.000Z"
   },
@@ -276,10 +273,7 @@
       "creationAt": "2026-04-13T02:45:39.000Z",
       "updatedAt": "2026-04-13T02:45:39.000Z"
     },
-    "images": [
-      "https://i.imgur.com/UsFIvYs.jpeg",
-      "https://i.imgur.com/YIq57b6.jpeg"
-    ],
+    "images": ["https://i.imgur.com/UsFIvYs.jpeg", "https://i.imgur.com/YIq57b6.jpeg"],
     "creationAt": "2026-04-13T02:45:39.000Z",
     "updatedAt": "2026-04-13T02:45:39.000Z"
   },
@@ -737,10 +731,7 @@
       "creationAt": "2026-04-13T02:45:39.000Z",
       "updatedAt": "2026-04-13T02:45:39.000Z"
     },
-    "images": [
-      "https://i.imgur.com/3dU0m72.jpeg",
-      "https://i.imgur.com/zPU3EVa.jpeg"
-    ],
+    "images": ["https://i.imgur.com/3dU0m72.jpeg", "https://i.imgur.com/zPU3EVa.jpeg"],
     "creationAt": "2026-04-13T02:45:40.000Z",
     "updatedAt": "2026-04-13T02:45:40.000Z"
   },

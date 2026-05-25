@@ -1,3 +1,3 @@
-import { readJSON } from '../utils/readJSON.js'
+import { readJSON } from '../utils/readJSON.js';
 
-export const categories = readJSON(import.meta.url, '../json/categories.json')
+export const categories = readJSON(import.meta.url, '../json/categories.json');

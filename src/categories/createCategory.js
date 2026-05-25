@@ -4,5 +4,5 @@ export const createCategory = ({ name, image, id = crypto.randomUUID(), creation
   slug: name.toLowerCase().replace(/\s+/g, '-'),
   image,
   creationAt,
-  updatedAt: new Date()
-})
+  updatedAt: new Date(),
+});

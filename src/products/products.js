@@ -1,3 +1,3 @@
-import { readJSON } from '../utils/readJSON.js'
+import { readJSON } from '../utils/readJSON.js';
 
-export const products = readJSON(import.meta.url, '../json/products.json')
+export const products = readJSON(import.meta.url, '../json/products.json');
